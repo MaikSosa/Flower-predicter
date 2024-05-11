@@ -16,9 +16,9 @@ Special thanks to Leonardo Flores, BYU-I professor for his mentorship and expert
 
 # Development Environment
 
-JetBrains PyCharm 2024 1.1
-Python 3.10
-Numpy 
+ - JetBrains PyCharm 2024 1.1
+ - Python 3.10
+ - Numpy 
 
 # Useful Websites
 
