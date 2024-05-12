@@ -4,21 +4,21 @@ Machine Learning has been one of the stepping stones for the development and mor
 we know it today. Machine Learning itself has other areas of expertise such as Calculus, Computer science and programming 
 that have been around for quite some time now. All these factors or 'ingredients' have been cooking for a long time. 
 
-Understanding Machine learning on paper is relatively easy if you understand the math behind it. Differently is to be able to 
-code it, train it and develop it further. Nowadays, there are libraries for Python that speed up the development of a LLM. You will
-still need to do some coding but the main structure and development has been already done. 
-
-This project will help me understand, learn and create a LLM from scratch using just mathematics and python. 
+This project 
 
 Special thanks to Leonardo Flores, BYU-I professor for his mentorship and expertise.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/vdAu6rEkrbA)
 
 # Development Environment
 
  - JetBrains PyCharm 2024 1.1
  - Python 3.10
  - Numpy 
+ - Matplotlib
+ - Sklearn
+ - Seaborn
+ - Pandas
 
 # Useful Websites
 
@@ -27,3 +27,5 @@ Special thanks to Leonardo Flores, BYU-I professor for his mentorship and expert
 * [Understanding the math behind neural networks](https://web.archive.org/web/20210423082804/https://www.samsonzhang.com/2020/11/24/understanding-the-math-behind-neural-networks-by-building-one-from-scratch-no-tf-keras-just-numpy.html)
 * [Simple MNIST NN from scratch (numpy, no TF/Keras)](https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook)
 * [3blue1Brown Video Series "But what is a neural network? | Deep Learning"](https://www.youtube.com/watch?v=aircAruvnKk)
+* [Seaborn API](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+* [Sklearn Machine Learning Model](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics)
