@@ -4,7 +4,17 @@ Machine Learning has been one of the stepping stones for the development and mor
 we know it today. Machine Learning itself has other areas of expertise such as Calculus, Computer science and programming 
 that have been around for quite some time now. All these factors or 'ingredients' have been cooking for a long time. 
 
-This project 
+This project features a simple Python code using multiple libraries. It features Sklearn as the LLM to read data from a
+CSV file and use the data to be able to predict the specie of the flower by the size and measurements of the petals. 
+Seaborn is implemented to graph results and analyze the effectiveness of the Model. 
+
+Confusion Matrix of the model:
+## First iteration of the MLM with some errors 
+![First iteration of the MLM with some errors](img.png)
+
+## Second iteration of the MLM with 100% accuracy
+![100 percent accuracy](img_1.png)
+
 
 Special thanks to Leonardo Flores, BYU-I professor for his mentorship and expertise.
 
